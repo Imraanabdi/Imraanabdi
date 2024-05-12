@@ -18,6 +18,8 @@ I'm a 20-year-old developer based in Nairobi, and I'm passionate about crafting 
  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) [](https://icons8.com/icon/20907/javascript)               ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) [](https://icons8.com/icon/99865/bootstrap)
  ![React.js](https://img.icons8.com/color/48/000000/react-native.png) [](https://icons8.com/icon/45168/react-native)     
 
+## Contributions
+![Your Contributions](https://activity-graph.herokuapp.com/graph?username=Imraanabdi&bg_color=ffffff&color=000000&line=4C71F2&point=9B59B6&area=true&hide_border=true)
 
 ## 📫 Contact
 
