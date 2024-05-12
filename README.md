@@ -1,4 +1,4 @@
-Hey👋 I'm Imran,a frontend developer specializing in React, Js, HTML, and CSS, adept in version control with Git, GitLab, and Bitbucket, and keen on enhancing backend skills.
+Hi👋 I'm Imran,a frontend developer specializing in React, Js, HTML, and CSS
 
 ## 📦 Toolbox
 
@@ -12,9 +12,7 @@ Hey👋 I'm Imran,a frontend developer specializing in React, Js, HTML, and CSS,
 ## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)
-
-
-## 🌐 Socials:
+ 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imraac) 
 
 
