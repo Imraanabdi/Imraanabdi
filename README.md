@@ -1,29 +1,37 @@
-### Hey, I'm Imran 👋🏽  
+# Hi there! 👋 I'm imran
 
-<img  src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLXMxMTMtYWstNTExNy1zcy0wNF8xLmpwZw.jpg" alt="nairobi">
-  
-I'm a 20-year-old developer based in Nairobi, and I'm passionate about crafting digital experiences. 
+## About Me
+I'm a passionate Software DevOps Engineer with expertise in HTML, CSS, JavaScript, Bootstrap, and React. I love building scalable and efficient solutions that make an impact.
 
-- Currently learning Frontend Development
-- studying at Moringa Schools
+## Skills
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) [HTML5](https://icons8.com/icon/20909/html-5)
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) [CSS3](https://icons8.com/icon/20906/css3)
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) [JavaScript](https://icons8.com/icon/20907/javascript)
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) [Bootstrap](https://icons8.com/icon/99865/bootstrap)
+- ![React.js](https://img.icons8.com/color/48/000000/react-native.png) [React.js](https://icons8.com/icon/45168/react-native)
+- Git
+- DevOps
 
-## 📦 Toolbox
+## Projects
+### Project 1
+- Description of the project
+- Link to the project repository
+- Link to the live demo (if available)
 
-*Frontend Development:* React Js HTML CSS
- 
-*Version Control:* Git GitLab Bitbucket
+### Project 2
+- Description of the project
+- Link to the project repository
+- Link to the live demo (if available)
 
-*Backend Development:* Pending
+## Connect with Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
 
-*Testing:*  Postman 
+## Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
-## ✨ Fun Facts 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
-- Very social person
-- I love Football
-- I have a passion for coding
-
-
-## 📫 Contact
-
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/).
+## Contributions
+Feel free to contribute to any of my repositories or reach out for collaborations!
