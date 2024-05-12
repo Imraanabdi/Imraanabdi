@@ -1,4 +1,4 @@
-Hi👋 I'm Imran,a frontend developer specializing in React, Js, HTML, and CSS
+Hi👋 I'm imran,a frontend developer specializing in React, Js, HTML, and CSS
 
 ## 📦 Toolbox
 
