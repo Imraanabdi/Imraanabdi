@@ -1,19 +1,15 @@
 Hey! I'm Imran, a frontend developer proficient in React, JavaScript, HTML, CSS, and Python.
 
 
-
-
-
-
-
 ## 📦 Toolbox
 
-*Frontend Development:* React Js HTML CSS
-*Version Control:* Git GitLab Bitbucket
-*:Professional Development:*Ongoing learning in PHP and MySQL
-*Backend Development:* Pending
-
-*Testing:*  Postman 
+- **Frontend Development:** React JS, HTML, CSS  
+- **Version Control:** Git, GitLab, Bitbucket  
+- **Professional Development:**
+  - Ongoing learning in PHP  
+  - Ongoing learning in MySQL
+   
+- **Testing:** Postman  
 
 ## 📫 Contact
 
