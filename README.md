@@ -1,6 +1,6 @@
-Hey! I'm Imran, a frontend developer proficient in React, JavaScript, HTML, CSS, and Python.
+## 📫 Contact
 
-
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)                               [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imraa
 ## 📦 Toolbox
 
 - **Frontend Development:** React JS, HTML, CSS  
@@ -11,10 +11,7 @@ Hey! I'm Imran, a frontend developer proficient in React, JavaScript, HTML, CSS,
    
 - **Testing:** Postman  
 
-## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/imranabdisalan/)
- 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imraac) 
 
 
